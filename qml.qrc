@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>fragmentshader.fsh</file>
+        <file>vertexshader.vsh</file>
+        <file>CmdList.qml</file>
+        <file>FooterBasis.qml</file>
+        <file>StyledText.qml</file>
+        <file>ExModeManager.qml</file>
+        <file>TypesListTempl.qml</file>
+        <file>LoadFile.qml</file>
+        <file>Leveler.qml</file>
+        <file>ComPortManager.qml</file>
+    </qresource>
+</RCC>
